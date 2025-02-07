@@ -1,9 +1,7 @@
-## MLDS Generative AI - Assignment 1
-
 # AviationRAG
 
 
-This project aims to build a RAG-based assistant for airline pilots and members of technical crew.
+This project aims to build a RAG-based LLM assistant for airline pilots and members of technical crew.
 
 
 The completed database will consist of PDF documents of Aircraft Flight Documentation (AFM), technical manuals, weather guides, navigation guides etc. collected from official/verified sources like Federal Aviation Administration and Flight Manuals Online.
@@ -27,9 +25,8 @@ This repository demosntrates the RAG pipeline with GPT 3.5-Turbo, along with two
 ### Steps to run code:
 
 
-1. Download the PDF files from the Google Drive and store on local
-    https://drive.google.com/drive/folders/1zKwDvTcqjksVpf6BcFKIgpq21fbXR7cU?usp=sharing
-
+1. Download the PDF files from the [Drive](https://drive.google.com/drive/folders/1zKwDvTcqjksVpf6BcFKIgpq21fbXR7cU?usp=sharing) and store on local
+    
 
 2. Run requirements.txt:
    
